@@ -15,10 +15,10 @@
 
 ## 🏆 Projects (成果物)
 
-### 1. [ポートフォリオサイト](https://github.com/HARUKITERASHIMA/portfolio)
-- **概要:** 自分自身のスキルと実績をまとめたサイト
-- **使用技術:** HTML5, CSS3, GitHub Pages
-- **ポイント:** シンプルで使いやすいデザインを意識しています。
+### 1. [勉強集中アプリ](https://gms.gdl.jp/~haruki/login_3.php)
+- **概要:** 勉強を自学自習するためのツール。勉強時間の計測だけじゃなく他人に質問、AIに質問することができる
+- **使用技術:** HTML5, CSS3, Javascript, PostgreSQL
+- **ポイント:** 勉強に集中しやすいようにシンプルなデザインを使用している
 
 ### 2. 作品名B (Coming Soon!)
 - **概要:** ○○を解決するためのWebアプリ
