@@ -27,7 +27,7 @@
 ## 🚀 Currently Learning
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
@@ -53,7 +53,7 @@
 > 冷蔵庫の残り物を入力するだけでAIが献立を提案するWebアプリ
 
 - **使用技術:** Flask, React, SQLite, Gemini API
-- **ポイント:** Gemini APIを活用。食材以外の入力にも適切にハンドリング
+- **ポイント:** Gemini APIを活用。食材以外の入力にも適切に対応
 
 ---
 
